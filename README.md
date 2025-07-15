@@ -60,15 +60,9 @@
 
 
 
----
 
-## 🏆 GitHub Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanket77u&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
----
 
 ## 🎯 Current Focus
 
